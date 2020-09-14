@@ -49,14 +49,14 @@ Chongqing
 
 _Data Team & Skin Team Back-End Engineer_<br>
 
-**Data Application Platform**
+#### Data Application Platform
 
 - Medical image data classification, annotation, segmentation.
 - Configurable strategy.
 - Dynamic task assignment.
 - Medical image DICOM/NIFTI support.
 
-**Skin API Platform**
+#### Skin API Platform
 
 - Skin intelligent diagnosis API Service.
 - Service Mesh.
@@ -65,12 +65,13 @@ _Data Team & Skin Team Back-End Engineer_<br>
 ### **Intellifai** `Hangzhou 2017.10 - 2018.8`
 
 _Back-End Engineer_<br>
-**Lung Nodule Diagnosis System**
 
-- Nodele Detection
+#### Lung Nodule Diagnosis System
+
+- Lung Nodele Detection System
 - DICOM Service
 
-**Diabetic Retina Classification Model**
+#### Diabetic Retina Classification Model
 
 - Tensorflow / Keras
 - RestNet
@@ -78,10 +79,11 @@ _Back-End Engineer_<br>
 ### **HAND Enterprise Solutions Co., Ltd.** `Shanghai 2014.7 - 2017.7`
 
 _Technical Consultant_<br>
-**AUCMA Master Data Management**
-**Shandong Chambroad Petrochemicals Co., Ltd. Contract Management System**
-**SPIC Northeast Electric Power ERP**
-**Zhengzhou Metro ERP**
+
+- #### AUCMA Master Data Management
+- #### Shandong Chambroad Petrochemicals Co., Ltd. Contract Management System
+- #### SPIC Northeast Electric Power ERP
+- #### Zhengzhou Metro ERP
 
 ## Honors & Awards
 
@@ -95,12 +97,12 @@ Excellent intern `HAND Enterprise Solutions Co., Ltd., 2014` <br>
 
 ## Skills
 
-Git, SVN
-Python
-SQL, MySql、SQL Server、Oracle、PostgreSQL
-Linux, Redis, MQ
-Java, Maven, Spring boot, Mybatis
-DevOps, CI&CD, Jenkins, Docker, Kubernetes
+Git, SVN,
+Python,
+SQL, MySql、SQL Server、Oracle、PostgreSQL,
+Linux, Redis, MQ,
+Java, Maven, Spring boot, Mybatis,
+DevOps, CI&CD, Jenkins, Docker, Kubernetes,
 DICOM, NIFTI
 
 <!-- ### Footer
