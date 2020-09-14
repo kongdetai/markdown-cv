@@ -85,6 +85,8 @@ _Technical Consultant_<br>
 - SPIC Northeast Electric Power ERP
 - Zhengzhou Metro ERP
 
+---
+
 ## Honors & Awards
 
 Employee Excellence Award `Voxelcloud, 2019` <br>
@@ -92,8 +94,6 @@ Shandong Chambroad Petrochemicals Co., Ltd. Contract Management System -- Best P
 SPIC Northeast Electric Power ERP -- Best Project of the Year `HAND Enterprise Solutions Co., Ltd., 2015`<br>
 Zhengzhou Metro ERP -- Best Project of the Year `HAND Enterprise Solutions Co., Ltd., 2014`<br>
 Excellent intern `HAND Enterprise Solutions Co., Ltd., 2014` <br>
-
----
 
 ## Skills
 
