@@ -4,10 +4,10 @@ title: Detai Kong
 email:
   url: mailto:kongdetai@gmail.com
   text: kongdetai@gmail.com
-homepage:
-  url: https://kongdetai.github.io
-  text: kongdetai.github.io
-  phone: +086 151-1188-9027
+phone: +086 151-1188-9027
+# homepage:
+#   url: https://kongdetai.github.io
+#   text: kongdetai.github.io
 ---
 
 # Detai **Kong**
